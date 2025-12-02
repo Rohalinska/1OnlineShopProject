@@ -1,0 +1,13 @@
+import json
+
+BRD = [
+    {"id": 1, "requirement": "Реєстрація користувача"},
+    {"id": 2, "requirement": "Перегляд каталогу"},
+    {"id": 3, "requirement": "Фільтр товарів"},
+    {"id": 4, "requirement": "Оформлення замовлення"},
+    {"id": 5, "requirement": "Оплата онлайн"},
+    {"id": 6, "requirement": "Управління товарами"}
+]
+
+with open("BRD.json", "w", encoding="utf-8") as f:
+    json.dump(BRD, f, ensure_ascii=False, indent=4)
