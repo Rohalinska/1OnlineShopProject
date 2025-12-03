@@ -1,0 +1,15 @@
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\bin\Debug\net9.0\OnlineShopProject.exe
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\bin\Debug\net9.0\OnlineShopProject.deps.json
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\bin\Debug\net9.0\OnlineShopProject.runtimeconfig.json
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\bin\Debug\net9.0\OnlineShopProject.dll
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\bin\Debug\net9.0\OnlineShopProject.pdb
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.AssemblyInfoInputs.cache
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.AssemblyInfo.cs
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.sourcelink.json
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.dll
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\refint\OnlineShopProject.dll
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.pdb
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\OnlineShopProject.genruntimeconfig.cache
+C:\Users\Dell\1OnlineShopProject\OnlineShopProject\obj\Debug\net9.0\ref\OnlineShopProject.dll
