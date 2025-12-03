@@ -1,12 +1,22 @@
-import json
-
-NFR = [
-    {"id": 1, "requirement": "Продуктивність до 1000 запитів одночасно"},
-    {"id": 2, "requirement": "Безпека даних користувачів"},
-    {"id": 3, "requirement": "Надійність і резервне копіювання"},
-    {"id": 4, "requirement": "Сумісність із сучасними браузерами"},
-    {"id": 5, "requirement": "Зручний інтерфейс"}
-]
-
-with open("NFR.json", "w", encoding="utf-8") as f:
-    json.dump(NFR, f, ensure_ascii=False, indent=4)
+{
+  "performance": {
+    "response_time": "Сторінки повинні завантажуватися до 2 секунд",
+    "scalability": "Система повинна підтримувати до 10 000 одночасних користувачів"
+  },
+  "security": {
+    "password_encryption": "Паролі зберігаються у хешованому вигляді",
+    "https_required": "Весь трафік має бути захищений HTTPS"
+  },
+  "usability": {
+    "language": "Інтерфейс українською мовою",
+    "responsive_design": "Коректна робота на мобільних пристроях"
+  },
+  "reliability": {
+    "uptime": "Система має бути доступною 99% часу",
+    "backup": "Щоденне резервне копіювання бази даних"
+  },
+  "compatibility": {
+    "browsers": ["Chrome", "Firefox", "Edge"],
+    "database": "MySQL"
+  }
+}
